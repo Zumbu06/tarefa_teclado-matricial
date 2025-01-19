@@ -3,11 +3,16 @@
 Membros da Equipe
 
 Helga Maria
+
 Laisa França
+
 Cauã Brizolara
-Rian Barroso - Lider da Semana
+
 Marcos Silveira
+
 Juliano Neves
+
+Rian Barroso - Lider da Semana
 
 
 Sobre o Projeto

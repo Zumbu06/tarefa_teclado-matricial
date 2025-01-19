@@ -71,9 +71,6 @@ char read_key(void) {
 
 // Funções de controle dos LEDs
 
-
-const uint GPIO_LEDS[3] = {10, 11, 12};
-
 void control_led(char key) {
     switch (key) {
         case '1':

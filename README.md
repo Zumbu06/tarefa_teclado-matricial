@@ -25,6 +25,10 @@ O que foi utilizado neste Projeto
 
 Funcionamento do Sistema
 
-1 - Pressione a tecla 1 do teclado para acionar o Led Verde + o Buzzer
-2 - Pressione a tecla 2 do teclado para acionar o Led Azul + o Buzzer
-3 - Pressione a tecla 3 do teclado para acionar o Led vermelho + o Buzzer
+1 - Pressione a tecla 1 do teclado para acionar o Led Verde
+
+2 - Pressione a tecla 2 do teclado para acionar o Led Azul
+
+3 - Pressione a tecla 3 do teclado para acionar o Led vermelho
+
+4 - O Buzzer aciona quando o usuario clica na letra A do Teclado Matricial

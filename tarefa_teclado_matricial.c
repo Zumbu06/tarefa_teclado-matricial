@@ -44,6 +44,16 @@ void init_gpio(void) {
     gpio_put(GPIO_BUZZER, 0);
 }
 
+
+// Função de controle do buzzer
+void control_buzzer(char key) {
+    if (key == 'A') {
+        gpio_put(GPIO_BUZZER, 1); // Ativa o buzzer
+        sleep_ms(500);  // Mantém o buzzer ligado por 500ms
+        gpio_put(GPIO_BUZZER, 0); // Desativa o buzzer
+    }
+}
+
 int main() {
     stdio_init_all();
     init_gpio();

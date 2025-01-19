@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Acee/pico-sdk/tarefa_teclado_matricial
+# Install script for directory: D:/Embarcatech/tarefa_teclado-matricial
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,12 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Acee/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/Cauã/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Acee/pico-sdk/tarefa_teclado_matricial/build/pico-sdk/cmake_install.cmake")
+  include("D:/Embarcatech/tarefa_teclado-matricial/build/pico-sdk/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Acee/pico-sdk/tarefa_teclado_matricial/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Embarcatech/tarefa_teclado-matricial/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

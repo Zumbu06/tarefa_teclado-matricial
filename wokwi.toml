@@ -1,4 +1,0 @@
-[wokwi]
-version = 1
-firmware = 'build\tarefa_teclado_matricial.hex'
-elf = 'build\tarefa_teclado_matricial.elf'

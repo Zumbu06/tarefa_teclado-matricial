@@ -17,7 +17,7 @@ Rian Barroso - Lider da Semana
 
 Sobre o Projeto
 
-Este manual descreve como montar e utilizar um teclado matricial 4x4 em conjunto com acionamentos de 3 Leds e Buzzer sonoros no Wokwi, utilizando -se do ambiente de desenvolvimento VS CODE.
+Este manual descreve como montar um projeto utilizando Placa Raspberry Pi Pico W e um teclado matricial 4x4 em conjunto com acionamentos de 3 Leds e Buzzer sonoros no Wokwi, utilizando-se do ambiente de desenvolvimento VS CODE.
 
 
 

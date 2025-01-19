@@ -32,3 +32,5 @@ Funcionamento do Sistema
 3 - Pressione a tecla 3 do teclado para acionar o Led vermelho
 
 4 - O Buzzer aciona quando o usuario clica na letra A do Teclado Matricial
+
+Link do vídeo explicando e simulando o código: https://youtu.be/eBvwnkDlT5A

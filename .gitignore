@@ -5,3 +5,11 @@
 CMakeLists.txt
 
 README.md
+
+diagram.json
+
+pico_sdk_import.cmake
+
+tarefa_teclado_matricial.c
+
+wokwi.toml

@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Acee/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio
+# Install script for directory: /home/juliano/.pico-sdk/sdk/2.1.0/src/rp2_common/pico_stdio
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/tarefa_teclado_matricial")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,6 +34,6 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Acee/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "/home/juliano/.pico-sdk/toolchain/13_3_Rel1/bin/arm-none-eabi-objdump")
 endif()
 
